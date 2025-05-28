@@ -606,7 +606,7 @@ nav ul li a:hover:after {
 
 /* Contact Section */
 .contact {
-     background-image:linear-gradient(rgba(95, 114, 133, 0.8), rgba(85, 105, 125, 0.8)), url('./static/assets/contctt.avif');
+     background-image:linear-gradient(rgba(95, 114, 133, 0.8), rgba(85, 105, 125, 0.8)), url('./assets/contctt.avif');
     background-color: var(--light);
     padding: 100px 0;
     position: relative;
